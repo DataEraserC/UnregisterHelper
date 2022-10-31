@@ -10,8 +10,12 @@ Unregister Helper
 ## gitlab
 >leave blank
 
+## telegram
+>https://my.telegram.org/delete
+
 ## zhihu
 >https://www.zhihu.com/unregister
 
 ## baidu
 >mobile app by baidu company
+
