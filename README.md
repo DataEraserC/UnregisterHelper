@@ -19,3 +19,5 @@ Unregister Helper
 ## baidu
 >mobile app by baidu company
 
+## oicq
+>![oicq_unregister](./img/oicq_unregister.png)
