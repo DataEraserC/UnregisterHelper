@@ -1,7 +1,7 @@
 Unregister Helper
 ==
 
-## please think twice before performing operation
+# please think twice before performing any operation
 
 ## google
 >https://support.google.com/accounts/answer/32046
